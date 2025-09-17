@@ -1,1 +1,1 @@
-![Yudhi Github Stats](https://git-app-data.vercel.app/api/og?title=a)
+![Yudhi Github Stats](https://git-app-data.vercel.app/api/git)
