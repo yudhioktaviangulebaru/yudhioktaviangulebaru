@@ -1,1 +1,1 @@
-![Yudhi's GitHub Stats](https://readme-stats-github.pages.dev/api?username=yudhioktaviangulebaru&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=yudhioktaviangulebaru&theme=dark)
